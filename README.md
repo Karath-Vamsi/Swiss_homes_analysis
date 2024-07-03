@@ -1,4 +1,4 @@
-# Swiss_homes_analysis
+# Swiss homes analysis
 The project aims to analyse the geographic distribution and 
 socioeconomic indicators of housing apartments in Switzerland based on 
 available datasets. Leveraging information on housing features, 
