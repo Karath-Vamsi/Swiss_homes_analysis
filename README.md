@@ -18,4 +18,4 @@ characteristics across different regions of Switzerland. Such insights can
 inform policymakers, urban planners, and stakeholders about the spatial 
 distribution of housing features and socioeconomic indicators, aiding in 
 decision-making processes related to housing policies and community 
-development initiatives
+development initiatives.
